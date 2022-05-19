@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?)](https://paperswithcode.com/sota/object-detection-on-ua-detrac)  <br>
+[![PWC](https://img.shields.io/endpoint.svg?)](https://paperswithcode.com/sota/object-detection-on-uavdt)  <br>
 # TriPosNet
 Repository for the paper "TriPosNet"
 ## Abstract

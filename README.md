@@ -5,7 +5,7 @@ Most object detection research focuses on identifying a large object covering a 
 
 ## Model
 
-![Framework](Arch/TriPosNet.png "")
+![Framework](Arch/TriPosNet.PNG "")
 
 # Results
 

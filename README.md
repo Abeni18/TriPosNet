@@ -1,5 +1,5 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/sota/object-detection-on-ua-detrac)](https://paperswithcode.com/sota/object-detection-on-ua-detrac)  <br>
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/sota/object-detection-on-uavdt)](https://paperswithcode.com/sota/object-detection-on-uavdt)  <br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/sota/object-detection-on-ua-detrac-for/object-detection-on-ua-detrac)](https://paperswithcode.com/sota/object-detection-on-ua-detrac)  <br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/sota/object-detection-on-uavdt-for/object-detection-on-uavdt)](https://paperswithcode.com/sota/object-detection-on-uavdt)  <br>
 # TriPosNet
 Repository for the paper "TriPosNet"
 ## Abstract

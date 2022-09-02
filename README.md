@@ -13,7 +13,6 @@ Most object detection research focuses on identifying a large object covering a 
 # Results
 
 ### Results on UA-DETRAC
-- The trained TriPosNet model is available under 
 - Prediction result from the trianed TriPosNet model is avaialble under : Prediction_result/UA-DETRAC 
 - The summrized result is presented as follows
 

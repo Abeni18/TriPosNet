@@ -13,7 +13,7 @@ Most object detection research focuses on identifying a large object covering a 
 # Results
 
 ### Results on UA-DETRAC
-- Prediction result from the trianed TriPosNet model is avaialble under : [Prediction_result/UA-DETRAC](https://github.com/Abeni18/TriPosNet/tree/main/Prediction_result/UA-DETRAC)
+- Prediction result from the trianed TriPosNet model is avaialble : [Prediction_result/UA-DETRAC](https://github.com/Abeni18/TriPosNet/tree/main/Prediction_result/UA-DETRAC)
 - The summrized result is presented as follows
 
 | Model                                      | Overall          | Easy             | Medium           | Hard             | Cloudy           | Night            | Rainy            | Sunny            |
